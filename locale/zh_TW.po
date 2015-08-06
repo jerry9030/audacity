@@ -50,7 +50,7 @@ msgstr "大小"
 #: lib-src/FileDialog/generic/FileDialogPrivate.cpp:472
 #: src/effects/Noise.cpp:48
 msgid "Type"
-msgstr ""
+msgstr "類型"
 
 #: lib-src/FileDialog/generic/FileDialogPrivate.cpp:473
 #, fuzzy
